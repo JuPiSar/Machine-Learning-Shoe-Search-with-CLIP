@@ -13,16 +13,16 @@ RealTimeObjectDetection/
 ├── Tensorflow/
 │   ├── models/              # TensorFlow Models Garden
 │   ├── scripts/             # Conversion and helper scripts
-│   ├── workspace/
-│   │   ├── annotations/     # Label map and TFRecords
-│   │   ├── images/          # Train and Test image sets
-│   │   ├── models/          # Custom trained models (checkpoints)
-│   │   └── pre-trained-models/ # Base models from TF Model Zoo
-│   │
-│   ├── Face_Mask_Detection_Setup_ipynb.ipynb
-│   ├── RealTimeMaskDetector.ipynb 
-│   ├── training_output.log 
-│   └── pbtxt/ 
+│   └── workspace/
+│       ├── annotations/     # Label map and TFRecords
+│       ├── images/          # Train and Test image sets
+│       ├── models/          # Custom trained models (checkpoints)
+│       └── pre-trained-models/ # Base models from TF Model Zoo
+│ 
+├── Face_Mask_Detection_Setup_ipynb.ipynb
+├── RealTimeMaskDetector.ipynb 
+├── training_output.log 
+├── pbtxt/ 
 └── README.md
 ```
 
